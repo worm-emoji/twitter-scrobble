@@ -14,6 +14,9 @@ installation
 
 4. set up a cronjob so your profile is always accurate. i use  `*/5 * * * * ruby ~/twitter-scrobble/scrobble` in my crontab, but set up something that works for u
 
+etc
+####
+
 project copyright luke miles + contributors
 
 mit license
